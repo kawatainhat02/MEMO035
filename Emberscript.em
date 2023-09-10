@@ -1,4 +1,10 @@
 Ember
+#include
+;
+""
+()
+else 
+
 if ('undefined' === typeof Ember) {
   Ember = {};
 
