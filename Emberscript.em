@@ -1,3 +1,4 @@
+Ember
 if ('undefined' === typeof Ember) {
   Ember = {};
 
